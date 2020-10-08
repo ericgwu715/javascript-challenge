@@ -6,4 +6,4 @@ The goal of the project was to visualize UFO Sighting Data by using HTML, Javasc
 ## Tools used in this project: 
 * HTML/CSS 
 * JavaScript
- * D3 
+  * D3 
